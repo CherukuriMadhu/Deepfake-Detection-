@@ -1,4 +1,4 @@
-# Detection of Deepfake Media for Secure Communication Using Deep Learning
+# Detection of Deepfake Media for Secure Communication 
 
 An automated deepfake detection system that uses a Deep Neural Network (DNN) to classify audio-visual media as **"Real"** or **"Fake"**, with a Flask-based web interface for real-time analysis.
 
