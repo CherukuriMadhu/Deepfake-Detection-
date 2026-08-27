@@ -19,7 +19,7 @@ This project implements a real-time deepfake detection pipeline built on a DNN t
 
 ## System Architecture
 
-**Pipeline:** `MP4 Video → Frame Extraction → Audio Separation → Feature Engineering → Model Inference → Real/Fake Prediction → Confidence Score`
+**Pipeline:**
 
 **DNN Architecture:**
 - Input layer — preprocessed feature vectors (58-D)
