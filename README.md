@@ -4,7 +4,7 @@ An automated deepfake detection system that uses a Deep Neural Network (DNN) to 
 
 ## Overview
 
-Deepfake technology, powered by deep learning models like GANs and autoencoders, has made it increasingly easy to generate realistic synthetic video and audio that convincingly mimic real individuals. This poses serious risks to digital trust and security across banking, law enforcement, media, and everyday communication.
+
 
 This project implements a real-time deepfake detection pipeline built on a DNN trained on the **FakeAVCeleb** dataset. It detects faces frame-by-frame using OpenCV and Haar cascades, extracts and preprocesses features, and classifies each sample as real or fake with a confidence score — deployed through a lightweight Flask web application.
 
