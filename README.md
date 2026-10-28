@@ -6,7 +6,7 @@ An automated deepfake detection system that uses a Deep Neural Network (DNN) to 
 
 
 
-This project implements a real-time deepfake detection pipeline built on a DNN trained on the **FakeAVCeleb** dataset. It detects faces frame-by-frame using OpenCV and Haar cascades, extracts audio into text and  and preprocesses features, and classifies each sample as real or fake with a confidence score — deployed through a lightweight Flask web application.
+This project implements a real-time deepfake detection pipeline built on a DNN trained on the **FakeAVCeleb** dataset. It detects faces frame-by-frame using OpenCV and Haar cascades, extracts audio into text and image frames and preprocesses features, and classifies each sample as real or fake with a confidence score — deployed through a lightweight Flask web application.
 
 ## Features
 
