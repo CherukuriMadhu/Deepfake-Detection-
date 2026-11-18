@@ -1,4 +1,4 @@
-# Multimodal deepake detection using explanable ai
+# Multimodal deepake detection using explanable AI
 
 An automated deepfake detection system that uses a Deep Neural Network (DNN) to classify audio-visual media as **"Real"** or **"Fake"**, with a Flask-based web interface for real-time analysis.
 
